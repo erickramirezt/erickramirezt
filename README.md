@@ -1,7 +1,7 @@
-### Hola 👋
+## Hola 👋
 
 Soy Erick Ramírez, 
-Desarrollador jr en laravel
+Desarrollador Jr. en Laravel
 
 <h4>Lenguajes de programación</h4>
 <p>
@@ -23,7 +23,7 @@ Desarrollador jr en laravel
 
 <h4>Bases de datos</h4>
 <p>
-  <img src="	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -34,14 +34,14 @@ Desarrollador jr en laravel
 </p>
 
 
-### 🌱 Actualmente estoy aprendiendo... 
+## 🌱 Actualmente estoy aprendiendo... 
 <p>
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
 </p>
 
-### Github Stats:
+## Github Stats:
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=erickramirezt&theme=blue-green"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickramirezt&theme=blue-green" />
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickramirezt&theme=blue-green" />
 <!--
 **erickramirezt/erickramirezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
