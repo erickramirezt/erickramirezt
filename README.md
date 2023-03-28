@@ -41,7 +41,7 @@ Desarrollador Jr. en Laravel
 
 ## Github Stats:
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=erickramirezt&theme=blue-green"/>
-<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickramirezt&theme=blue-green" />
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickramirezt&theme=blue-green" />
 <!--
 **erickramirezt/erickramirezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
