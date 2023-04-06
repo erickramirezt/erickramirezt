@@ -1,7 +1,7 @@
 ## Hola 👋
 
 Soy Erick Ramírez, 
-Desarrollador Jr. en Laravel
+Desarrollador Jr. en Java
 
 <h4>Lenguajes de programación</h4>
 <p>
