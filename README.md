@@ -1,7 +1,7 @@
 ## Hola 👋
 
 Soy Erick Ramírez, 
-Desarrollador Jr. en Java
+Desarrollador Jr. en Svelte
 
 <h4>Lenguajes de programación</h4>
 <p>
@@ -34,11 +34,6 @@ Desarrollador Jr. en Java
 
 ## 🌱 Actualmente estoy aprendiendo... 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
-  <br />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
