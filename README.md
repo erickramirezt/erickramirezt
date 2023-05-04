@@ -34,7 +34,7 @@ Desarrollador Jr. en Svelte
 
 ## 🌱 Actualmente estoy aprendiendo... 
 <p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ## Github Stats:
