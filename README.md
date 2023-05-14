@@ -1,7 +1,7 @@
 ## Hola 👋
 
 Soy Erick Ramírez, 
-Desarrollador Jr. en Svelte
+Desarrollador Jr.
 
 <h4>Lenguajes de programación</h4>
 <p>
@@ -10,8 +10,12 @@ Desarrollador Jr. en Svelte
 </p>
 
 <h4>Tecnologías Frontend</h4>
+
 <p>
+<!--
    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+-->
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 <h4>Tecnologías CSS</h4>
@@ -19,11 +23,13 @@ Desarrollador Jr. en Svelte
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
+<!--
 <h4>Bases de datos</h4>
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+-->
 
 <h4>Herramientas</h4>
 <p>
@@ -34,7 +40,7 @@ Desarrollador Jr. en Svelte
 
 ## 🌱 Actualmente estoy aprendiendo... 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ## Github Stats:
