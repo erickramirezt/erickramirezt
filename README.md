@@ -12,9 +12,7 @@ Desarrollador Jr.
 <h4>Tecnologías Frontend</h4>
 
 <p>
-<!--
    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
--->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
