@@ -12,7 +12,7 @@ Desarrollador Jr.
 <h4>Tecnologías Frontend</h4>
 
 <p>
-   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
@@ -26,7 +26,7 @@ Desarrollador Jr.
 <h4>Bases de datos</h4>
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-thebadge&logo=postgresql&logoColor=white"/>
 </p>
 -->
 
@@ -39,7 +39,7 @@ Desarrollador Jr.
 
 ## 🌱 Actualmente estoy aprendiendo... 
 <p>
-  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" 
 </p>
 
 ## Github Stats:
