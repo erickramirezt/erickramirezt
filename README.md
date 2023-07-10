@@ -52,9 +52,10 @@
 </p>
 
 ## Github Stats:
-<img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickramirezt&theme=blue-green" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=erickramirezt&theme=blue-green"/>
-
+<p>
+  <img height="215" src="https://github-readme-stats.vercel.app/api?username=erickramirezt&show_icons=true&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickramirezt&layout=donut">  
+</p>
 <!--
 **erickramirezt/erickramirezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
