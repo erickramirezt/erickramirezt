@@ -3,10 +3,6 @@
 ### **Soy Erick Ramírez, Desarrollador Jr.**
 
 ## ⚡ Mi stack
-### Lenguajes de programación
-<p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" 
-</p>
 
 ### Base de datos
 <p>
@@ -20,10 +16,11 @@
 </p>
 
 ## 🌱 Actualmente estoy aprendiendo... 
-### Framework
+### Lenguajes de programación
 <p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
 </p>
+
 
 ### Base de datos
 <p>
@@ -37,15 +34,14 @@
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
-### ORM
+### Framework
 <p>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </p>
 
 ### Seguridad
 <p>
    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
 </p>
 
 ### Cloud
