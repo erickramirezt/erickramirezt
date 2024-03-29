@@ -29,7 +29,7 @@
 
  ## 🌱 Actualmente estoy aprendiendo...  -->
 
-## 🔭 Tengo planeado aprender...
+<!--## 🔭 Tengo planeado aprender...
 
 ### Backend
 <p>
@@ -40,7 +40,7 @@
 <p>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </p>
-
+-->
 <!-- ### Cloud
 <p>
 
