@@ -45,9 +45,10 @@
 <p>
 
 </p> -->
-
+<!--
 ## Github Stats:
 <p>
   <img height="215" src="https://github-readme-stats.vercel.app/api?username=erickramirezt&show_icons=true&theme=transparent">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickramirezt&layout=donut">  
 </p>
+-->
